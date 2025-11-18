@@ -80,7 +80,7 @@ The course provides practical insights into **OSINT, pretexting, phishing delive
 ## 📜 Certificate  
 
 🎓 **Spearphishing & OpSec Techniques Certificate**  
-![](./cert/course-spearphising-and-OpSec-Techniques.png)
+[](./cert/course-spearphising-and-OpSec-Techniques.png)
 
 ---
 
