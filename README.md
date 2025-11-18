@@ -1,4 +1,4 @@
-# 🎯 Spearphishing & OpSec Techniques – RedTeam Learning
+# 🎯 Spearphishing & OpSec Techniques – RedTeam Leaders
 
 ![Course](https://img.shields.io/badge/Course-Spearphishing%20%26%20OpSec-darkblue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
